@@ -1,6 +1,10 @@
 - 👋 Hi,
 - 👀 I’m interested in mobile application platforms
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukanevefiore&layout=compact&theme=dark&show_icons=true)](https://github.com/bukanevefiore/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bukanevefiore&show_icons=true&theme=dark&icon_color=FCBE11)
+
 
 <!---
 - 🌱 I’m currently learning ...
